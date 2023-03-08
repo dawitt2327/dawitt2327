@@ -1,5 +1,5 @@
 <h1 align="center">Hi, This is Dawit Tadesse</h1>
-<h3 align="center">Full MER Stack developer from Ethiopia</h3>
+<h3 align="center">Full MERN Stack developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawitt2327&label=Profile%20views&color=0e75b6&style=flat" alt="dawitt2327" /> </p>
 

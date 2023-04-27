@@ -9,7 +9,7 @@
 
 - I’m currently learning **Typescript.js and Next.js**
 
-- 💬 Ask me about **React.js, Node.js, Express, Mongo DB, Javascript,TailwindCss, BootstrapCSS, HTML, CSS, CI/CD, **
+- 💬 Ask me about **React.js, Node.js, Express, Mongo DB, Javascript,Python, Jupyter, TailwindCss, BootstrapCSS, HTML, CSS, CI/CD, **
 
 - 📫 How to reach me **dawitt2327@gmail.com**
 

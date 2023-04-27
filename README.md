@@ -1,5 +1,5 @@
 <h1 align="center">Hi, This is Dawit Tadesse</h1>
-<h3 align="center">Full MERN Stack developer from Ethiopia</h3>
+<h3 align="center">Full Stack (MERN) developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawitt2327&label=Profile%20views&color=0e75b6&style=flat" alt="dawitt2327" /> </p>
 
@@ -7,7 +7,7 @@
 
 - Currently working in Shaggar Software Company **As a Full Stack Software Developer**
 
-- I’m currently learning **Typescript.js and React native**
+- I’m currently learning **Typescript.js and Next.js**
 
 - 💬 Ask me about **HTML,CSS,Javascript,react.js,Node.js,Express and Mongo DB**
 
